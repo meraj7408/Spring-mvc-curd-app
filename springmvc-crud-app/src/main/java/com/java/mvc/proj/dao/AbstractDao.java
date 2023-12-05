@@ -11,7 +11,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 /**
  * Abstract DAO Interface for Simple Spring MVC CRUD App
  * 
- * @author Mandar Pandit
+ *
  */
 public class AbstractDao<PK extends Serializable, T> {
 
